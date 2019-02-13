@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ''
+title: test
 date: ''
 page_sections:
 - template: navigation-header-w-button

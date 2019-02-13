@@ -20,6 +20,15 @@ page_sections:
     enabled: true
 - template: 3-column-text
   block: three-column-1
+  col_1:
+    headline: test
+    content: tsets
+  col_2:
+    headline: teste
+    content: test
+  col_3:
+    headline: test
+    content: test
 - template: 2-column-media-element
   block: media-2
 - template: simple-footer

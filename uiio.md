@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ''
+title: hopin
 date: ''
 page_sections:
 - template: navigation-header

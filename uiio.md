@@ -37,6 +37,7 @@ page_sections:
     image: "/uploads/2018/06/21/edit.gif"
 - template: simple-footer
   block: footer-1
+  content: "<strong>fafaff</strong>"
 published: false
 
 ---

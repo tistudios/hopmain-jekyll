@@ -31,6 +31,10 @@ page_sections:
     content: test
 - template: 2-column-media-element
   block: media-2
+  image_1:
+    image: "/uploads/2018/06/21/drone-photo.jpeg"
+  image_2:
+    image: "/uploads/2018/06/21/edit.gif"
 - template: simple-footer
   block: footer-1
 published: false

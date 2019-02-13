@@ -1,0 +1,11 @@
+---
+label: homepage
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Page title
+  config:
+    required: true

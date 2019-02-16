@@ -28,9 +28,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+    image: "/uploads/2019/02/16/hopin-logo.png"
+    alt_text: Hop In logo
+  background_image: "/uploads/2019/02/16/hopin-logo.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -75,6 +75,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
 
+---
 foo bar

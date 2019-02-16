@@ -20,9 +20,8 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Hop In<br><strong>The New Transit</strong>
+  content: 'Hop In Microtransit '
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
@@ -30,7 +29,7 @@ page_sections:
   image:
     image: "/uploads/2019/02/16/hopin-logo.png"
     alt_text: Hop In logo
-  background_image: "/uploads/2019/02/16/hopin-logo.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
